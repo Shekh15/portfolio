@@ -1,7 +1,19 @@
-.fs-1-2{
-    font-size: 1.2rem;
+.fs-1-2 {
+  font-size: 1.2rem;
 }
 
-.fs-0-5{
-    font-size: 1rem;
+.fs-0-5 {
+  font-size: 1rem;
+}
+
+.word-list {
+  list-style-type: disc; /* • */
+  padding-left: 24px;
+  margin: 16px 8px 16px;
+}
+
+.word-list li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+  padding-left: 4px;
 }
